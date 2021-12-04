@@ -1,0 +1,28 @@
+header{
+    word-spacing: 10px;
+}
+
+input{
+    display: flex;  
+}
+#usersTable{
+    width: 100%;
+}
+.color{
+   display: flex;
+}
+
+#usersTables,
+th,
+td{
+    border: 1px solid grey;
+}
+.error{
+    border: 1px solid red;
+}
+#alertError{
+    color: red;
+}
+.hide{
+    display: none;
+}
